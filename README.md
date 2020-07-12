@@ -9,6 +9,12 @@
 - API (<b>DjangoRestFramework</b>)
 - Визуализация. (<b>Django, HTML+CSS+JS, Plotly</b>)
 
+# Architecture
+
+# Data pipeline
+
+# Recommendation Logic
+
 # Perspectives
 
 1. 
