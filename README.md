@@ -14,6 +14,12 @@
 # Data pipeline
 
 # Recommendation Logic
+
+<div align="center">
+    <img src=https://i.ibb.co/cLjrG5J/clusters.jpg" >
+    <p>Product Clusters</p>
+</div>
+
 Synonyms             |  Complimentation
 :-------------------------:|:-------------------------:
 ![synonyms](https://i.ibb.co/8X2TSRh/synonyms.jpg)  |  ![complimentation](https://i.ibb.co/xzNWWrS/complimentaions.jpg)
