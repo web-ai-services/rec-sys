@@ -13,15 +13,16 @@
 
 # Data pipeline
 <div align="center">
-    <img src=https://i.ibb.co/wgtvVWt/greedsearch.jpg" >
+    <img src=https://i.ibb.co/YT1vkgB/photo5393622920070278229.jpg" >
     <p>GreedSearch</p>
 </div>
 
 # Recommendation Logic
 
 <div align="center">
-    <img src=https://i.ibb.co/YT1vkgB/photo5393622920070278229.jpg" >
+    <img src="https://i.ibb.co/HTxSkW9/rsz-clusters.jpg">
     <p> Product Clusters </p>
+                                                                   
 </div>
 
 Synonyms             |  Complimentation
