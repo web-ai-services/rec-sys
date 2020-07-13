@@ -17,7 +17,7 @@
 
 <div align="center">
     <img src=https://i.ibb.co/HTxSkW9/rsz-clusters.jpg" >
-    <p>Product Clusters</p>
+    <p> Product Clusters </p>
 </div>
 
 Synonyms             |  Complimentation
