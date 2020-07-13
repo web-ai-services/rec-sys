@@ -12,6 +12,10 @@
 # Architecture
 
 # Data pipeline
+<div align="center">
+    <img src=https://i.ibb.co/0nN6r1V/rsz-greedsearch.jpg" >
+    <p>GreedSearch</p>
+</div>
 
 # Recommendation Logic
 
