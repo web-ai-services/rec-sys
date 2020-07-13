@@ -14,7 +14,9 @@
 # Data pipeline
 
 # Recommendation Logic
-
+Synonyms             |  Complimentation
+:-------------------------:|:-------------------------:
+![synonyms](https://i.ibb.co/8X2TSRh/synonyms.jpg)  |  ![complimentation](https://i.ibb.co/xzNWWrS/complimentaions.jpg)
 # Perspectives
 
 1. 
