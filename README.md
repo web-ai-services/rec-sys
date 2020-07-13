@@ -16,7 +16,7 @@
 # Recommendation Logic
 
 <div align="center">
-    <img src=https://i.ibb.co/cLjrG5J/clusters.jpg" >
+    <img src=https://i.ibb.co/HTxSkW9/rsz-clusters.jpg" >
     <p>Product Clusters</p>
 </div>
 
