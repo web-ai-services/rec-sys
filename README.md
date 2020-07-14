@@ -13,7 +13,7 @@
 
 # Data pipeline
 <div align="center">
-    <img src=https://i.ibb.co/YT1vkgB/photo5393622920070278229.jpg" >
+    <img src=https://i.ibb.co/VWnkq6R/rsz-1photo5393622920070278229.jpg" >
     <p>GridSearch</p>
 </div>
 
