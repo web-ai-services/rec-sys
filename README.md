@@ -38,7 +38,7 @@
 
 Synonyms             |  Complimentation
 :-------------------------:|:-------------------------:
-![synonyms](https://i.ibb.co/8X2TSRh/synonyms.jpg)  |  ![complimentation](https://i.ibb.co/xzNWWrS/complimentaions.jpg)
+![Синонимичные](https://i.ibb.co/9bJ22VL/photo5397687947702152056.jpg)  |  ![Комплиментарные](https://i.ibb.co/vBYz459/photo5386441223650257916.jpg)
 # Perspectives
 
 1. 
