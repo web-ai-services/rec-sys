@@ -56,7 +56,7 @@ PASS
 
 <div align="center">
     <img src="https://i.ibb.co/KyrgwDP/rsz-dragon.png">
-    <p>Three head dragon</p>                                                       
+    <p>Future model</p>                                                       
 </div>
 
 Включить имеющуюся реализацию контекстных рекомендаций, как алгоритм для холодного старта в разрезе пользователя. А в виде основной модели использовать [подход](https://drive.google.com/drive/folders/1zf8rSVU9bHXTkPDAms5bkV9qDdxVpbdN) Антона Протопопова, победившего в Х5 комптишне, [source](https://github.com/aprotopopov/retailhero_recommender). В его подходе 
